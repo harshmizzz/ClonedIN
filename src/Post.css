@@ -1,0 +1,32 @@
+.post {
+    background-color: white;
+    padding: 0.9rem;
+
+    margin-bottom: 0.625rem;
+    border-radius: 0.625rem;
+}
+
+.post_header {
+    display: flex;
+    margin-bottom: 0.625rem;
+
+}
+
+.post_info {
+    margin-left: 0.625rem;
+}
+
+.post_info > p {
+    font-size: 0.7rem;
+    color: gray;
+}
+
+.post_body {
+    overflow-wrap: anywhere;
+}
+
+.post_buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
